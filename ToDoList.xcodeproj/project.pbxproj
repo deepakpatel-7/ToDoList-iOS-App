@@ -32,6 +32,7 @@
 		7C3880B32C04B36C00534231 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3880B22C04B36C00534231 /* RegisterViewViewModel.swift */; };
 		7C3880B52C04B3CF00534231 /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3880B42C04B3CF00534231 /* ToDoListItemViewViewModel.swift */; };
 		7C3880B72C04B8E000534231 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3880B62C04B8E000534231 /* HeaderView.swift */; };
+		7C6758782C079B3E007AB49D /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6758772C079B3E007AB49D /* TLButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		7C3880B22C04B36C00534231 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		7C3880B42C04B3CF00534231 /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		7C3880B62C04B8E000534231 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		7C6758772C079B3E007AB49D /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				7C3880A02C04B18000534231 /* RegisterView.swift */,
 				7C3880A22C04B20100534231 /* ToDoListItemView.swift */,
 				7C3880B62C04B8E000534231 /* HeaderView.swift */,
+				7C6758772C079B3E007AB49D /* TLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				7C3880A92C04B2F000534231 /* MainViewViewModel.swift in Sources */,
 				7C38809B2C04B10B00534231 /* ToDoListView.swift in Sources */,
 				7C3880A12C04B18000534231 /* RegisterView.swift in Sources */,
+				7C6758782C079B3E007AB49D /* TLButton.swift in Sources */,
 				7C3880AB2C04B30100534231 /* ProfileViewViewModel.swift in Sources */,
 				7C3880992C04B0D200534231 /* ProfileView.swift in Sources */,
 				7C3880A52C04B26100534231 /* User.swift in Sources */,
